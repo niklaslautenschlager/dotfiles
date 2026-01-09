@@ -5,6 +5,7 @@ Minimal i3 setup on Void Linux.
 ## Screenshots
 ![Workflow](screenshots/terminalWorkflow.png)
 ![Desktop](screenshots/tryAgain.png)
+![Busy](screenshots/Multitasking.png)
 ![Alternate](screenshots/alternateBackground.png)
 
 ## Stack
