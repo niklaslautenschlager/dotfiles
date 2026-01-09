@@ -23,6 +23,29 @@ Minimalist i3 setup on Void Linux.
 - Works with NVIDIA GPU's
 - Large collection of wallpapers
 
+## Keybinds
+
+**Launch**
+- $mod + Return → Terminal (kitty)
+- $mod + Shift + f → File manager (nemo)
+- $mod + Shift + b → Browser (firefox)
+- $mod + d → App launcher (rofi drun)
+- $mod + p → Power menu script
+
+**Workspaces**
+- $mod + 1–10 → Switch to workspace 1–10
+- $mod + Shift + 1–10 → Move focused window to workspace 1–10
+
+**Window Management**
+- $mod + v → Split horizontally
+- $mod + h → Split vertically
+- $mod + Shift + q → Close focused window
+
+**i3 Control**
+- $mod + Shift + r → Restart i3
+- $mod + Shift + e → Exit i3 (with confirmation)
+
+
 
 ## Wallpaper Disclaimer
 All wallpapers included in this repository are the property of their respective owners.
