@@ -1,6 +1,6 @@
 # Dotfiles (Void Linux)
 
-Minimal i3 setup on Void Linux.
+Minimalist i3 setup on Void Linux.
 
 ## Screenshots
 ![Workflow](screenshots/terminalWorkflow.png)
