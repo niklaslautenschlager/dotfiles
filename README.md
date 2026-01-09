@@ -2,6 +2,10 @@
 
 Minimal i3 setup on Void Linux.
 
+## Screenshots
+![Desktop](screenshots/terminalWorkflow.png)
+![Desktop](screenshots/Multitasking.png)
+
 ## Stack
 - WM: i3
 - Terminal: kitty
@@ -17,11 +21,6 @@ Minimal i3 setup on Void Linux.
 - Works with NVIDIA GPU's
 - Large collection of wallpapers
 
-## Installation
-```sh
-git clone https://github.com/niklaslautenschlager/dotfiles.git
-cd dotfiles
-./install.
 
 ## Wallpaper Disclaimer
 All wallpapers included in this repository are the property of their respective owners.
@@ -35,4 +34,9 @@ or replace them with your own images.
 
 Upon request by a rights holder, any content will be removed immediately.
 
+## Installation
+```sh
+git clone https://github.com/niklaslautenschlager/dotfiles.git
+cd dotfiles
+./install.
 
