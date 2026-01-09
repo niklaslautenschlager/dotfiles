@@ -1,0 +1,5 @@
+#!/bin/sh
+
+feh --no-fehbg --bg-fill \
+  --output DP-0 ~/Pictures/Wallpaper/flowers.jpg \
+  --output HDMI-1 ~/Pictures/Wallpaper/flowers.jpg
